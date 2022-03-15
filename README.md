@@ -25,3 +25,12 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+#instalacion 
+""""""Comentario""""""""
+La instalacíon es angular version 12.2.4
+1 Node v14.17.6
+2 Angular Materia 
+3 Bootstrap 
+4 Sweetalert2
+Deber ejecuta el comando "npm install" 
